@@ -8,4 +8,4 @@ This program displays a list of your favorite purchases written in Python
 - SHOW : To show all items in the shopping list
 
 ## Author: 
-Maryam Jamali   :-)
+Maryam Jamali 🤍
